@@ -10,3 +10,4 @@ gomoku-serverから開きalfaclientに手番が白か黒か聞かれるので答
 
 
 <img src="https://user-images.githubusercontent.com/52265875/101283573-92eb4a80-381e-11eb-9444-215dcd271cd9.PNG" width="320">
+  左:server 右上:client 右下:alfaclient
