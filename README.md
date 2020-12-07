@@ -1,4 +1,5 @@
 # Gomoku
+とても強いGomokuCPUを作成します
 ### 五目並べ
 - alfaclient.cはCPU
 - clientは自分で打つ用
